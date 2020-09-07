@@ -16,7 +16,7 @@ int main() {
 	printf("(double 자료형)          num2의 주소 : %p, num2의 메모리크기: %d, num2의 값: %.2f \n", &num2, sizeof(num2), num2);
 
 	// pnum1의 값과 num1의 주소값이 같다.	→ pnum1은 포인터로 주소값을 저장하기 때문에 일반 값을 출력하면 주소값이 나온다.
-	// *pnum1의 값과 num1의 값이 같다.		→ *연산자는 참조하는 메모리공간에 저장된 값을 반환함으로 pnum1이 참조하는 num1의 값과 같다. 
+	// *pnum1의 값과 num1의 값이 같다.  	  → *연산자는 참조하는 메모리공간에 저장된 값을 반환함으로 pnum1이 참조하는 num1의 값과 같다. 
 	printf("(int 싱글포인터형)       pnum1의 주소 : %p, pnum1의 메모리크기: %d, pnum1의 값: %p, *pnum1의 값: %d, *pnum1의 주소: %p \n", &pnum1, sizeof(pnum1), pnum1, *pnum1, &(*pnum1));
 
 	// pnum2의 값과 num2의 주소값이 같다.
