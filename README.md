@@ -1,1 +1,2 @@
-# C_Programming_Language
+# C 언어 정리 노트
+
