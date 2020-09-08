@@ -10,6 +10,7 @@ void ShowArayElem(int* param, int len) {	// 배열을 통째로 받을 방법은
 		printf("%d ", param[i]);
 	printf("\n");
 }
+
 int main() {
 	int arr1[3] = { 1, 2, 3 };
 	int arr2[5] = { 4, 5, 6, 7, 8 };
