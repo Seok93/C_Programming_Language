@@ -137,7 +137,7 @@
 
 ① 트리의 개요  
 ② 이진트리의 구현  
-③ 진 트리의 순회(Traversal)  
+③ 이진 트리의 순회(Traversal)  
 ④ 수식트리(Expression Tree)
 
 ## TCP/IP
