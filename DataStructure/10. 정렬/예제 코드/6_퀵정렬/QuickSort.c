@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* 예제 코드 설명: 퀵 정렬(Quicl Sort)  예제
+* 예제 코드 설명: 퀵 정렬(Quick Sort)  예제
 * 
 * 1. 퀵 정렬은 분할 정복(Divide and Conquer)이라는 알고리즘 디자인 기법에 근거하여 만들어진 정렬 알고리즘이다.
 * 2. 퀵 정렬의 용어 정리
